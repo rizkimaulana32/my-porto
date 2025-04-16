@@ -81,7 +81,7 @@ function App() {
                         className="w-full h-full cursor-pointer transform transition-transform hover:scale-105"
                         onClick={toggleTheme}
                       >
-                        <AvatarImage src="/public/02.png" />
+                        <AvatarImage src="/02.png" />
                         <AvatarFallback>MRM</AvatarFallback>
                       </Avatar>
                     </TooltipTrigger>
